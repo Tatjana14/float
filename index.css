@@ -6,11 +6,11 @@
     background-size: cover;
 }
 .clip-path{
-    clip-path: polygon(100% 0%, 77% 33%, 103% 100%, 0 100%, 0% 50%, 0 0);
+    clip-path: polygon(100% 0%, 77% 40%, 103% 100%, 0 100%, 0% 50%, 0 0);
     float: left;
     width: 50%;
     height: 100vh;
-    shape-outside: polygon(100% 0%, 77% 33%, 103% 100%, 0 100%, 0% 50%, 0 0);
+    shape-outside: polygon(100% 0%, 77% 40%, 103% 100%, 0 100%, 0% 50%, 0 0);
 }
 .wrapper__text{
     padding-top: 12%;
